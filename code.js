@@ -18,7 +18,3 @@ function fib_acc(n, accOne, accTwo) {
     //Calculate the next fib number by adding accOne and accTwo
     return fib_acc(n - 1, accTwo, accOne + accTwo);
 }
-
-//console.log(fib(4));
-//console.log(fib(0));
-//console.log(fib(7));
