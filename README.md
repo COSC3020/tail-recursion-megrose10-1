@@ -12,7 +12,7 @@ the function and run automatically when you commit through a GitHub action.
 Hint: It may help to have a look at the iterative dynamic programming
 implementation. What changes between iterations of the loop?
 
-I worked on some of this towards the end of last fall. I looked at the lecture slides(dynamic programming, tail recursion, factorial examples) and my notes on tail recursion. I asked chatGPT for the test code last semester, however, this semester I decided to do testing differently and used the tests supplied from the tsp problem. I also watched this video: https://www.bing.com/videos/riverview/relatedvideo?&q=how+to+use+github+actions+to+autimatically+run+tests+on+girhub+website&&mid=1B3D621FC15E307873CE1B3D621FC15E307873CE&&FORM=VRDGAR on how to use github Actions. 
+I worked on some of this towards the end of last fall. I looked at the lecture slides(dynamic programming, tail recursion, factorial examples) and my notes on tail recursion. I asked chatGPT for the test code last semester, however, this semester I decided to do testing differently and used the tests supplied from the tsp problem, changing them to what I needed to test for thsi exercise. I also watched this video: https://www.bing.com/videos/riverview/relatedvideo?&q=how+to+use+github+actions+to+autimatically+run+tests+on+girhub+website&&mid=1B3D621FC15E307873CE1B3D621FC15E307873CE&&FORM=VRDGAR on how to use github Actions. 
 
 ## Runtime Analysis
 
